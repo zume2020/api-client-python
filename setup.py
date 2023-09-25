@@ -26,10 +26,10 @@ setup(
         "certifi==2020.6.20",
         "chardet==3.0.4",
         "idna==2.10",
-        "packaging==20.4",
+        "packaging==22.0",
         "pyparsing==2.4.7",
         "python-dateutil==2.8.2",
-        "requests==2.24.0",
+        "requests==2.25.0",
         "six==1.15.0",
         "urllib3==1.25.10"
     ],
